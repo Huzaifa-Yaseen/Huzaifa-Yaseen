@@ -42,17 +42,25 @@ I'm a final-year **Computer Science** student at **FAST-NUCES, Faisalabad Campus
 - 🌱 Constantly learning and shipping small AI-powered tools
 - 💬 Ask me about AI agents, prompt engineering, or workflow automation
 
-## 🎯 Current Focus
+## 🧭 Domains of Expertise
 
-- Designing and deploying **AI agent pipelines** for real-world automation
-- Exploring **Generative AI** and **LLM-powered applications**
-- Strengthening full-stack skills to ship complete AI products end-to-end
+<!-- 🔧 These are drafted from what's known so far — tighten the wording or add
+     specifics (course names, project metrics, internships) as your experience grows. -->
 
-## 📚 Currently Learning
+### 🤖 AI / Machine Learning
+- Self-directed AI/ML learner — built a structured multi-week learning plan covering core ML and neural network theory
+- Comfortable with **prompt engineering** and building **LLM-powered applications** (Google Gemini API, OpenRouter)
+- Studying **AI Agents** as a practical extension of LLM applications — chaining models into multi-step reasoning pipelines
 
-- Advanced **prompt engineering** & LLM orchestration patterns
-- **Next.js** and **React** for production-grade AI product frontends
-- Deeper **Docker** & deployment workflows for AI services
+### 🔬 Deep Learning
+- Studied neural network fundamentals in depth, including forward and backward propagation
+- Exploring search and optimization algorithms (e.g. RBFS, memory-bounded search) as part of AI coursework
+- Currently strengthening applied deep learning skills through hands-on experimentation
+
+### ⚙️ Automation & AI Agents
+- Designed and built a **multi-agent automation pipeline** in n8n (research → SEO → scriptwriting → review → voiceover → video → publish) — see [AI-Content-Factory](https://github.com/Huzaifa-Yaseen/AI-Content-Factory)
+- Experience chaining LLM agents together with structured JSON outputs and error-handling between stages
+- Comfortable integrating third-party APIs (Gemini, Pixabay, TTS services) into automated workflows
 
 ## 🚀 2026 Goals
 
@@ -125,6 +133,33 @@ I'm a final-year **Computer Science** student at **FAST-NUCES, Faisalabad Campus
 -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Huzaifa-Yaseen/Huzaifa-Yaseen/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Huzaifa-Yaseen/AI-Content-Factory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa-Yaseen&repo=AI-Content-Factory&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+**AI-Content-Factory** — An AI-powered YouTube automation pipeline built in n8n: research → SEO → script → review → voiceover → video → publish, chaining multiple LLM agents together end-to-end.
+
+<!-- 🔧 Other repos on your account (add real descriptions to make them recruiter-ready, or remove any you don't want listed) -->
+| Project | Description |
+|---|---|
+| [Nuraan](https://github.com/Huzaifa-Yaseen/Nuraan) | Web project |
+| [FOOD-WEBSITE](https://github.com/Huzaifa-Yaseen/FOOD-WEBSITE) | Responsive food/recipe website with search, category filters, and recipe pages |
+| [shopify-store-](https://github.com/Huzaifa-Yaseen/shopify-store-) | Online store front — clean design, secure checkout, fast delivery |
+| [endless-runner](https://github.com/Huzaifa-Yaseen/endless-runner) | *(no description yet — add one to make this recruiter-ready)* |
+| [operating-system](https://github.com/Huzaifa-Yaseen/operating-system) | *(no description yet — add one to make this recruiter-ready)* |
+
+<p align="center">
+  <a href="https://github.com/Huzaifa-Yaseen?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20All%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
