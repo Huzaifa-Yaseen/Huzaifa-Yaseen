@@ -20,36 +20,24 @@
 </p>
 
 <!-- ================= BADGES ================= -->
+<!-- Custom monochrome outline badges live in assets/badges/ — edit gen_badges.py logic
+     or just hand-edit these small SVGs if you want to change text later. -->
 <p align="center">
-  <a href="#-domains-of-expertise">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-58A6FF?style=for-the-badge&labelColor=0f172a&logo=statuspage&logoColor=white" />
-  </a>
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/Location-Pakistan-1e293b?style=for-the-badge&labelColor=0f172a&logo=googlemaps&logoColor=white" />
-  </a>
-  <a href="#-domains-of-expertise">
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-1e293b?style=for-the-badge&labelColor=0f172a&logo=openai&logoColor=white" />
-  </a>
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/Education-Final%20Year%20CS-1e293b?style=for-the-badge&labelColor=0f172a&logo=googlescholar&logoColor=white" />
-  </a>
+  <a href="#-domains-of-expertise"><img src="assets/badges/status.svg" /></a>
+  <a href="#-about-me"><img src="assets/badges/location.svg" /></a>
+  <a href="#-domains-of-expertise"><img src="assets/badges/focus.svg" /></a>
+  <a href="#-about-me"><img src="assets/badges/education.svg" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Huzaifa-Yaseen?tab=followers">
-    <img src="https://img.shields.io/github/followers/Huzaifa-Yaseen?style=for-the-badge&color=58A6FF&labelColor=0f172a&logo=github&logoColor=white&label=Followers" />
-  </a>
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/Projects-View%20Featured%20Work-1e293b?style=for-the-badge&labelColor=0f172a" />
-  </a>
-  <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/Let's%20Connect-Reach%20Out-58A6FF?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/Huzaifa-Yaseen?tab=followers"><img src="assets/badges/followers.svg" /></a>
+  <a href="#-featured-projects"><img src="assets/badges/projects.svg" /></a>
+  <a href="#-connect-with-me"><img src="assets/badges/connect.svg" /></a>
 </p>
 
 <p align="center">
   <!-- Visitor counter -->
-  <img src="https://komarev.com/ghpvc/?username=Huzaifa-Yaseen&color=58A6FF&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Huzaifa-Yaseen&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
