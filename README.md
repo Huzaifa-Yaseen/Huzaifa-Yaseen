@@ -144,7 +144,7 @@ Final-year **Computer Science** student at **FAST-NUCES, Faisalabad**, based in 
 |---|---|
 | [Nuraan](https://github.com/Huzaifa-Yaseen/Nuraan) | Web project |
 | [shopify-store](https://github.com/Huzaifa-Yaseen/shopify-store) | Online store front — clean design, secure checkout, fast delivery |
-| [operating-system](https://github.com/Huzaifa-Yaseen/operating-system) | *(no description yet — add one to make this recruiter-ready)* |
+| [operating-system](https://github.com/Huzaifa-Yaseen/operating-system) | A mini operating system built to apply core OS concepts — process management, memory management, and scheduling |
 
 <p align="center">
   <a href="https://github.com/Huzaifa-Yaseen?tab=repositories">
