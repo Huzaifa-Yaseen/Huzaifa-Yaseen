@@ -143,9 +143,7 @@ Final-year **Computer Science** student at **FAST-NUCES, Faisalabad**, based in 
 | Project | Description |
 |---|---|
 | [Nuraan](https://github.com/Huzaifa-Yaseen/Nuraan) | Web project |
-| [FOOD-WEBSITE](https://github.com/Huzaifa-Yaseen/FOOD-WEBSITE) | Responsive food/recipe website with search, category filters, and recipe pages |
-| [shopify-store-](https://github.com/Huzaifa-Yaseen/shopify-store-) | Online store front — clean design, secure checkout, fast delivery |
-| [endless-runner](https://github.com/Huzaifa-Yaseen/endless-runner) | *(no description yet — add one to make this recruiter-ready)* |
+| [shopify-store](https://github.com/Huzaifa-Yaseen/shopify-store) | Online store front — clean design, secure checkout, fast delivery |
 | [operating-system](https://github.com/Huzaifa-Yaseen/operating-system) | *(no description yet — add one to make this recruiter-ready)* |
 
 <p align="center">
