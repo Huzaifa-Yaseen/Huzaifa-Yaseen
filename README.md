@@ -1,0 +1,148 @@
+<!--
+  GitHub Profile README for Muhammad Huzaifa Yaseen
+  This file must live in a PUBLIC repo named exactly "Huzaifa-Yaseen" (your username)
+  with this file at the root as README.md — GitHub then shows it on your profile page.
+-->
+
+<!-- ================= BANNER =================
+  Replace this capsule-render banner with your own image if you design one later.
+  Suggested banner concept (see chat for full description): dark navy/slate background,
+  a subtle neural-network / circuit-line pattern, electric blue (#58A6FF) accent text
+  reading "Muhammad Huzaifa Yaseen" with a smaller line "AI & Automation Engineer".
+-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Huzaifa%20Yaseen&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Automation%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+</p>
+
+<!-- ================= TYPING BANNER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Huzaifa+%F0%9F%91%8B;Final+Year+CS+Student+%F0%9F%8E%93;AI+%26+Automation+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9A%A1" alt="Typing SVG" />
+</p>
+
+<!-- ================= BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-1e293b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-0f172a?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Visitor counter -->
+  <img src="https://komarev.com/ghpvc/?username=Huzaifa-Yaseen&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+---
+
+## 👋 About Me
+
+I'm a final-year **Computer Science** student at **FAST-NUCES, Faisalabad Campus**, based in Pakistan. I'm passionate about **Artificial Intelligence, AI Agents, Workflow Automation, and Full-Stack Engineering** — I enjoy building intelligent systems that automate real-world business processes using modern AI technologies.
+
+- 🎓 Final Year BS Computer Science @ FAST-NUCES, Faisalabad
+- 🤖 Building AI agents & automated workflows with n8n, LLMs, and modern APIs
+- 🌱 Constantly learning and shipping small AI-powered tools
+- 💬 Ask me about AI agents, prompt engineering, or workflow automation
+
+## 🎯 Current Focus
+
+- Designing and deploying **AI agent pipelines** for real-world automation
+- Exploring **Generative AI** and **LLM-powered applications**
+- Strengthening full-stack skills to ship complete AI products end-to-end
+
+## 📚 Currently Learning
+
+- Advanced **prompt engineering** & LLM orchestration patterns
+- **Next.js** and **React** for production-grade AI product frontends
+- Deeper **Docker** & deployment workflows for AI services
+
+## 🚀 2026 Goals
+
+- [ ] Ship 3+ production-ready AI agent / automation projects
+- [ ] Contribute to an open-source AI or automation tool
+- [ ] Land a role or freelance contracts in AI Engineering
+- [ ] Deepen backend + DevOps skills for scalable SaaS products
+- [ ] Publish technical write-ups on AI agent design
+
+## ⚡ Fun Facts
+
+- 🧠 I think in workflows — if it's repetitive, I probably automated it
+- ☕ Fueled by coffee and curiosity about how far AI agents can go
+- 🛠️ I'd rather build a tool than do a task twice
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,postgres,mongodb,docker,git,github,linux,vscode,nodejs,react,nextjs,fastapi,postman&perline=9" />
+</p>
+
+<details>
+<summary><b>📋 Full skill breakdown</b></summary>
+
+<br/>
+
+**Programming Languages**
+`Python` `C++` `JavaScript` `SQL` `HTML` `CSS`
+
+**AI & Automation**
+`AI Agents` `Generative AI` `Prompt Engineering` `LLM Applications` `Workflow Automation` `n8n` `OpenRouter` `Google Gemini API`
+
+**Backend**
+`FastAPI` `REST APIs` `Node.js (basic)`
+
+**Frontend**
+`React (basic)` `Next.js (basic)`
+
+**Databases**
+`MySQL` `PostgreSQL` `MongoDB`
+
+**DevOps & Tools**
+`Docker` `Git` `GitHub` `Linux` `VS Code` `Postman` `FFmpeg`
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Huzaifa-Yaseen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-Yaseen&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-Yaseen&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Huzaifa-Yaseen&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+<!--
+  Contribution snake animation — this needs a one-time GitHub Action to generate it.
+  A ready-made workflow file (.github/workflows/snake.yml) has been added to this repo for you.
+  Once it runs (automatically, daily), the image below will populate.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Huzaifa-Yaseen/Huzaifa-Yaseen/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <!-- 🔧 Replace href values below with your real links -->
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center"><i>⭐ Thanks for stopping by — always open to interesting AI & automation collaborations.</i></p>
