@@ -11,7 +11,7 @@
   reading "Muhammad Huzaifa Yaseen" with a smaller line "AI & Automation Engineer".
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Huzaifa%20Yaseen&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Automation%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Muhammad%20Huzaifa%20Yaseen&fontSize=38&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Automation&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- ================= TYPING BANNER ================= -->
@@ -35,7 +35,7 @@
 
 ## 👋 About Me
 
-I'm a final-year **Computer Science** student at **FAST-NUCES, Faisalabad Campus**, based in Pakistan. I'm passionate about **Artificial Intelligence, AI Agents, Workflow Automation, and Full-Stack Engineering** — I enjoy building intelligent systems that automate real-world business processes using modern AI technologies.
+I'm a final-year **Computer Science** student at **FAST-NUCES, Faisalabad Campus**, based in Pakistan. I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Workflow Automation** — I enjoy building intelligent systems that automate real-world business processes using modern AI technologies.
 
 - 🎓 Final Year BS Computer Science @ FAST-NUCES, Faisalabad
 - 🤖 Building AI agents & automated workflows with n8n, LLMs, and modern APIs
