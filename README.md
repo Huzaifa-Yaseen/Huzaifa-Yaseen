@@ -22,16 +22,16 @@
 <!-- ================= BADGES ================= -->
 <p align="center">
   <a href="#-domains-of-expertise">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=for-the-badge&logo=statuspage&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-58A6FF?style=for-the-badge&labelColor=0f172a&logo=statuspage&logoColor=white" />
   </a>
   <a href="#-about-me">
-    <img src="https://img.shields.io/badge/Location-Pakistan-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Pakistan-1e293b?style=for-the-badge&labelColor=0f172a&logo=googlemaps&logoColor=white" />
   </a>
   <a href="#-domains-of-expertise">
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-a855f7?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-1e293b?style=for-the-badge&labelColor=0f172a&logo=openai&logoColor=white" />
   </a>
   <a href="#-about-me">
-    <img src="https://img.shields.io/badge/Education-Final%20Year%20CS-f97316?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Education-Final%20Year%20CS-1e293b?style=for-the-badge&labelColor=0f172a&logo=googlescholar&logoColor=white" />
   </a>
 </p>
 
@@ -40,10 +40,10 @@
     <img src="https://img.shields.io/github/followers/Huzaifa-Yaseen?style=for-the-badge&color=58A6FF&labelColor=0f172a&logo=github&logoColor=white&label=Followers" />
   </a>
   <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/Projects-View%20Featured%20Work-ec4899?style=for-the-badge&labelColor=0f172a" />
+    <img src="https://img.shields.io/badge/Projects-View%20Featured%20Work-1e293b?style=for-the-badge&labelColor=0f172a" />
   </a>
   <a href="#-connect-with-me">
-    <img src="https://img.shields.io/badge/Let's%20Connect-Reach%20Out-14b8a6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" />
+    <img src="https://img.shields.io/badge/Let's%20Connect-Reach%20Out-58A6FF?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@ I'm a final-year **Computer Science** student at **FAST-NUCES, Faisalabad Campus
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,postgres,mongodb,docker,git,github,linux,vscode,nodejs,react,nextjs,fastapi,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,mysql,postgres,mongodb,docker,git,github,linux,vscode,postman&perline=9" />
 </p>
 
 <details>
