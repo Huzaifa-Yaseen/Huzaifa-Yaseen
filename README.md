@@ -44,32 +44,15 @@
 
 ## 👋 About Me
 
-I'm a final-year **Computer Science** student at **FAST-NUCES, Faisalabad Campus**, based in Pakistan. I'm passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Workflow Automation** — I enjoy building intelligent systems that automate real-world business processes using modern AI technologies.
-
-- 🎓 Final Year BS Computer Science @ FAST-NUCES, Faisalabad
-- 🤖 Building AI agents & automated workflows with n8n, LLMs, and modern APIs
-- 🌱 Constantly learning and shipping small AI-powered tools
-- 💬 Ask me about AI agents, prompt engineering, or workflow automation
+Final-year **Computer Science** student at **FAST-NUCES, Faisalabad**, based in Pakistan — focused on **AI, Machine Learning, Deep Learning, and Automation**. I build intelligent systems that automate real work, not toy demos.
 
 ## 🧭 Domains of Expertise
 
-<!-- 🔧 These are drafted from what's known so far — tighten the wording or add
-     specifics (course names, project metrics, internships) as your experience grows. -->
-
-### 🤖 AI / Machine Learning
-- Self-directed AI/ML learner — built a structured multi-week learning plan covering core ML and neural network theory
-- Comfortable with **prompt engineering** and building **LLM-powered applications** (Google Gemini API, OpenRouter)
-- Studying **AI Agents** as a practical extension of LLM applications — chaining models into multi-step reasoning pipelines
-
-### 🔬 Deep Learning
-- Studied neural network fundamentals in depth, including forward and backward propagation
-- Exploring search and optimization algorithms (e.g. RBFS, memory-bounded search) as part of AI coursework
-- Currently strengthening applied deep learning skills through hands-on experimentation
-
-### ⚙️ Automation & AI Agents
-- Designed and built a **multi-agent automation pipeline** in n8n (research → SEO → scriptwriting → review → voiceover → video → publish) — see [AI-Content-Factory](https://github.com/Huzaifa-Yaseen/AI-Content-Factory)
-- Experience chaining LLM agents together with structured JSON outputs and error-handling between stages
-- Comfortable integrating third-party APIs (Gemini, Pixabay, TTS services) into automated workflows
+| Domain | Highlights |
+|---|---|
+| 🤖 **AI / Machine Learning** | Prompt engineering · LLM apps (Gemini, OpenRouter) · self-directed ML study |
+| 🔬 **Deep Learning** | Neural net fundamentals (forward/backward propagation) · search & optimization algorithms |
+| ⚙️ **Automation & AI Agents** | Built a multi-agent n8n pipeline → [AI-Content-Factory](https://github.com/Huzaifa-Yaseen/AI-Content-Factory) |
 
 ## 🚀 2026 Goals
 
